@@ -20,6 +20,7 @@ const Hero = () => {
         viewport={{ once: false, amount: 0.2 }} 
 >
        <CustomButton text="Get Started" containerStyles='h-[62px] w-[196px] ' />
+       
 
        </motion.div>
 

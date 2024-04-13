@@ -13,9 +13,9 @@ const CustomButton = ({text,containerStyles}:{text:string,containerStyles:string
               
 
     </div>
-     <SwiperNavButtons ContainerStyles=" mb-5 flex gap-1  lg:h-[60px] h-[120px] w-full flex justify-center items-center  md:mt-30 lg:mt-60" 
+     {/* <SwiperNavButtons ContainerStyles=" mb-5 flex gap-1  lg:h-[60px] h-[120px] w-full flex justify-center items-center  md:mt-30 lg:mt-60" 
      btnStyles="border border-accent text-white w-[56px] h-[56px]  flex items-center justify-center hover:bg-accent transtion-all duration-300"
-      iconStyles="text-2xl "/>
+      iconStyles="text-2xl "/> */}
     </>
     
     

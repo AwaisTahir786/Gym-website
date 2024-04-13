@@ -13,12 +13,12 @@ import "swiper/css/navigation";
 const HeroSlider = () => {
   return (
     <Swiper
-      pagination={{
-        type: "fraction",
-      }}
-      navigation={true}
-      modules={[Pagination, Navigation]}
-      className=""
+      // pagination={{
+      //   type: "fraction",
+      // }}
+      // navigation={true}
+      // modules={[Pagination, Navigation]}
+      // className=""
     >
       <SwiperSlide>
         <div className="h-full flex text-left justify-end lg:pt-48 pt-36 ">
